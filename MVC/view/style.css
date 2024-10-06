@@ -1,0 +1,169 @@
+        .form_align
+        {
+            width: 300px;
+            margin: 0px auto;
+        }
+        .loginImage
+        {
+            background-image:url("BackgroundPics/LoginImage.jpg"); 
+            background-size:cover;
+        }
+        .loginForm
+        {
+            margin-top: 155px;
+        }
+        .loginText
+        {
+            font-size: 18px;
+        }
+        .loginerror
+        {
+            color: #0d6efd;
+            font-size: 18px;
+        }
+        .loginHeading
+        {
+            text-align: center;
+            color: #0d6efd;
+        }
+        .loginButton
+        {
+            margin-left: 110px;
+        }
+        
+
+        *
+        {
+            margin: 0px;
+            padding: 0px;
+        }
+        body
+        {
+            font-family:arial;
+            margin: 20px;
+            padding: 20px;
+        }
+        .create_form
+        {
+            text-align: center;
+            color: #0d6efd;
+            margin-bottom: 20px;
+        }
+        .welcomeText
+        {
+            text-align: center;
+            margin-top: 60px;
+        }
+        .student_form_align
+        {
+            width: 300px;
+            margin: 0px auto;
+        }
+        .logout_button
+        {
+            float: right;
+        }
+        .list
+        {
+            float: left;
+        }
+        .error 
+        {
+            color: red;
+            font-size: 15px;
+            padding-right: 0;
+        }
+
+
+        .filter
+        {
+            width: 984px;
+            margin: 0px auto;
+            margin-bottom: 40px;
+        }
+        .heading
+        {
+            margin-top: 80px;
+        }
+        .students
+        {
+            margin-top: 40px;
+        }
+        .listText
+        {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .list_logout_button
+        {
+            text-align: right;
+        }
+        .listBackground
+        {
+            background-color:burlywood;
+        }
+        .paginationClass
+        {
+            justify-content: center;
+        }
+        .records
+        {
+            font-size: 23px;
+            text-align: center;
+        }
+        .filters
+        {
+            display: flex;
+            gap: 10px;
+        }
+        .filter_input
+        {
+            height: 35px;
+        }
+        .list_label
+        {
+            font-size: 18px;
+            white-space: nowrap;
+            align-content: center;
+        }
+        .sub_heading
+        {
+            margin: 20px 0px;
+            padding-left: 40px;
+        }
+        .table
+        {
+            margin-top: 40px;
+        }
+        .view_students
+        {
+            margin-bottom: 80px;
+        }
+
+
+        .studentDetails
+        {
+            background-color:white;
+            padding:20px;
+            border-radius:10px;
+            width:400px;
+            margin:0px auto;
+            text-align:center;
+        }
+        .profile_image
+        {
+            margin-bottom:15px;
+            height:130px;
+            width:130px;
+            border-radius:50%;
+        }
+        .studentDetails p 
+        {
+            margin:10px 0;
+            line-height:1.6;
+        }
+        .viewText
+        {
+            color:white;
+            text-align: center;
+        }
